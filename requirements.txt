@@ -1,6 +1,6 @@
 opencv-python
 streamlit
-PIL
+pillow
 pandas
 tensorflow
 pymongo
