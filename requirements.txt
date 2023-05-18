@@ -8,3 +8,4 @@ moviepy
 streamlit_authenticator
 pickle
 gridfs
+git+https://github.com/tensorflow/docs
