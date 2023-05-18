@@ -1,1 +1,10 @@
-
+opencv-python
+streamlit
+PIL
+pandas
+tensorflow
+pymongo
+moviepy
+streamlit_authenticator
+pickle
+gridfs
