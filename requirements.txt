@@ -1,4 +1,5 @@
 opencv-python
+ffmpeg-python
 streamlit
 pillow
 pandas
