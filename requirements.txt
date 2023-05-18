@@ -1,4 +1,4 @@
-opencv-python
+python3-opencv
 streamlit
 pillow
 pandas
